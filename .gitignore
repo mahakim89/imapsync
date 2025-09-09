@@ -9,3 +9,5 @@ debian/*/*/*
 debian/files
 packaging/*/*
 W/tmp/*
+config.bat
+node_modules
